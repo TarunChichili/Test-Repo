@@ -1,6 +1,6 @@
-#This is my repo
+# This is my repo
 
-###This is a subtopic
+### This is a subtopic
 
 *italic text*
 
